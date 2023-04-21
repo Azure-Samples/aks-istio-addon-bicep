@@ -1421,7 +1421,3 @@ az group delete --name <resource-group-name>
 ```azurepowershell
 Remove-AzResourceGroup -Name <resource-group-name>
 ```
-
-## Next Steps
-
-You could change the default hostname used by the ingress object and expose the backend service via HTTPS using a TLS/SSL certificate for your domain. For more information, see [Use certificates with LetsEncrypt.org on Application Gateway for AKS clusters](https://learn.microsoft.com/en-us/azure/application-gateway/ingress-controller-letsencrypt-certificate-application-gateway). If you use [Azure DNS](https://learn.microsoft.com/en-us/azure/dns/dns-overview) to manage your domain, you could extend the Bicep modules to automatically create a custom domain for your Front Door and create a CNAME DNS record in your public DNS zone.
