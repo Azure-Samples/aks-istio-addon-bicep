@@ -37,7 +37,7 @@ This article shows how to use create an [Azure Kubernetes Service(AKS)](https://
 
 For more information, see the following articles:
 
-- [What is Istio](https://istio.io/v1.1/docs/concepts/what-is-istio/)
+- [What is Istio?](https://istio.io/v1.1/docs/concepts/what-is-istio/)
 - [Istio-based service mesh add-on for Azure Kubernetes Service](https://learn.microsoft.com/en-us/azure/aks/istio-about)
 - [Deploy Istio-based service mesh add-on for Azure Kubernetes Service](https://learn.microsoft.com/en-us/azure/aks/istio-deploy-addon)
 - [Deploy external or internal ingresses for Istio service mesh add-on for Azure Kubernetes Service](https://learn.microsoft.com/en-us/azure/aks/istio-deploy-ingress)
