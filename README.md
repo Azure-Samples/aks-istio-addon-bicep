@@ -187,7 +187,7 @@ Istio-based service mesh add-on for AKS has the following limitations:
 - Istio doesn't support Windows Server containers.
 - Customization of mesh based on the following custom resources is blocked for now - `EnvoyFilter, ProxyConfig, WorkloadEntry, WorkloadGroup, Telemetry, IstioOperator, WasmPlugin`
 
-## Register the _AzureServiceMeshPreview_ feature flag
+## Register the AzureServiceMeshPreview feature flag
 
 Register the `AzureServiceMeshPreview` feature flag by using the [az feature register][az-feature-register] command:
 
