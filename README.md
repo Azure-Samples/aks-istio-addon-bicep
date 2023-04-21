@@ -33,7 +33,7 @@ azureDeploy: "https://raw.githubusercontent.com/Azure-Samples/aks-istio-addon-bi
 
 [Istio](https://istio.io/latest/) addresses the challenges developers and operators face with a distributed or microservices architecture. The Istio-based service mesh add-on provides an officially supported and tested integration for Azure Kubernetes Service (AKS).
 
-This article shows how to use create an [Azure Kubernetes Service(AKS)](https://docs.microsoft.com/en-us/azure/aks/intro-kubernetes) cluster with the [Istio Service Mesh add-on](https://learn.microsoft.com/en-us/azure/aks/istio-deploy-addon) via [Bicep](https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/overview) and deploy the [bookinfo](https://istio.io/latest/docs/examples/bookinfo/) sample application via a [Deployment Script](https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/deployment-script-bicep).
+This article shows how to create an [Azure Kubernetes Service(AKS)](https://docs.microsoft.com/en-us/azure/aks/intro-kubernetes) cluster with the [Istio Service Mesh add-on](https://learn.microsoft.com/en-us/azure/aks/istio-deploy-addon) via [Bicep](https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/overview) and deploy the [bookinfo](https://istio.io/latest/docs/examples/bookinfo/) sample application via a [Deployment Script](https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/deployment-script-bicep).
 
 For more information, see the following articles:
 
